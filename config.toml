@@ -1,4 +1,4 @@
-baseURL = "http://www.pashabitz.com.s3-website-us-west-2.amazonaws.com/"
+baseURL = "https://www.pashabitz.com/"
 languageCode = "en-us"
 title = "Pasha Bitz"
 theme = "archie"
