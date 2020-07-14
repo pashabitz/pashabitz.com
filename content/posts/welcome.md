@@ -43,7 +43,7 @@ Generating the final static files with Hugo is as easy as just the `hugo` comman
 
 Hugo also supports [deploying to a variety of hosting setups](https://gohugo.io/hosting-and-deployment/). S3 websites are natively supported, as well as all other popular methods of serving a thing on the internet.
 
-All it takes is [telling Hugo which bucket](https://gohugo.io/hosting-and-deployment/hugo-deploy/#configure-the-deployment) to push to and running `hugo deploy`.
+All it takes is [telling Hugo which bucket](https://gohugo.io/hosting-and-deployment/hugo-deploy/#configure-the-deployment) to push to and running `hugo deploy`. It even supports invalidating a CloudFront distribution upon deployment!
 
 Now I needed to set up the necessary resources in AWS:
 1. S3 buckets
@@ -77,3 +77,4 @@ Some things still missing:
 1. A way to quickly post a picture from my phone and have it become a post.
 1. Automatically share new posts on social media.
 
+The repository is [here](https://github.com/pashabitz/pashabitz.com).
