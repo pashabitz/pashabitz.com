@@ -29,7 +29,7 @@ URL = "s3://www.pashabitz.com?region=us-west-2"
 # URL = "gs://<Bucket Name>?prefix=a/subfolder/"
 
 # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
-cloudFrontDistributionID = E1RWLH4HYL8WN6
+cloudFrontDistributionID = "E1RWLH4HYL8WN6"
 
 # Optionally, you can include or exclude specific files.
 # See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
