@@ -60,3 +60,13 @@ gzip = false
 [[deployment.matchers]]
 pattern = "^.+\\.(html|xml|json)$"
 gzip = true
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/pashabitz"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/pashabitz/"
