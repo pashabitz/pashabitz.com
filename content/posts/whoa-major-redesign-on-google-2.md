@@ -5,4 +5,4 @@ draft: false
 tags: ['Misc', 'Tech']
 ---
 
-![](/wp-content/uploads/2015/10/google-redesign.jpg)
+![](/img/google-redesign.jpg)

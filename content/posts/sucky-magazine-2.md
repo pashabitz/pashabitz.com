@@ -50,4 +50,4 @@ So here's my bias-free criticism:
       
     Appendix  
     Fearing copyright laws, here's what the photo kind of looked like:  
-    ![Aunt Tzippora, Rome, 13/5/2004](/wp-content/uploads/2015/10/at.jpg)
+    ![Aunt Tzippora, Rome, 13/5/2004](/img/at.jpg)

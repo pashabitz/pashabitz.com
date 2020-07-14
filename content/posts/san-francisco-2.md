@@ -21,7 +21,7 @@ I mean, homeless people ask you for help with Twitter API here...
 
 I mean I knew about the (fake) [Mark Twain quote](http://www.snopes.com/quotes/twain.asp) and everything, and still I came dressed as if this is Israel. Please remember: San Francisco is cold. So get your warm (a.k.a. in Israel "winter") clothes, even in the summer.
 
-![](/wp-content/uploads/2015/10/IMG_3189-small.jpg)
+![](/img/IMG_3189-small.jpg)
 
 On the other (better) hand: South Bay is warm.
 
@@ -30,7 +30,7 @@ On the other (better) hand: South Bay is warm.
 The San Francisco bus/tram system is really useful. You should get yourself a ["clipper"](https://www.clippercard.com/ClipperWeb/index.do) which is a rechargeable card to save the trouble of trying to find change and all. Clippers are sold at Walgreens. I don't know why. I guess it's because they're everywhere. But then again so are Starbucks. I guess Starbucks said "fuck off".  
 Get yourself a monthly one for $62 which is the best deal for anywhere from 2 weeks and up.
 
-![](/wp-content/uploads/2015/10/IMG_3436-small.jpg)
+![](/img/IMG_3436-small.jpg)
 
 Getting down to the South Bay (Palo Alto, Mountain View and the such) is trickier. You can take the Caltrain but then you're most likely need a cab too. I really recommend signing up for [Zipcar](http://www.zipcar.com/). They have [cars everywhere](http://www.zipcar.com/sf/find-cars) and is the best-value option for when you need a car for a few hours. If you have an Israeli driver's license you'll need to produce some papers from the Ministry of Transport. I am in the process of doing it, will update...
 

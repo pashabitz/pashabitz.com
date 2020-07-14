@@ -11,7 +11,7 @@ I've found the perfect use case for it:
 1\. Go to a page in your website that contains a <TEXTAREA>, like [my Delver profile page](http://www.delver.com/people/pasha-bitz/25?invite=friends-and-family):  
   
   
-![](/wp-content/uploads/2015/10/delver-profile.jpg)  
+![](/img/delver-profile.jpg)  
   
   
   

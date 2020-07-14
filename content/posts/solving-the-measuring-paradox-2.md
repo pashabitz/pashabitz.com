@@ -29,7 +29,7 @@ Am I the only one who feels it gets more and more common for top athletes to get
 
 Lo and behold: more and more athletes use the drugs. For every researcher that develops innovative drug tests, there are two who develop drugs that cannot be tested against. Once again, a measurement strategy backfires and makes the result even worse.
 
-**![bolivia01.jpg](/wp-content/uploads/2015/10/bolivia01.jpg)**
+**![bolivia01.jpg](/img/bolivia01.jpg)**
 
 **So Pasha, What to Do?**
 

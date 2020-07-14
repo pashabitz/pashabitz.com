@@ -9,7 +9,7 @@ If you're opening a new restaurant and want to spread the word but don't have a 
 When I got back home tonight, I found this envelope in my mailbox:  
   
 
-![](/wp-content/uploads/2015/10/IMG_2623.jpg)  
+![](/img/IMG_2623.jpg)  
   
 It is a **hand written** envelope reading:  
 

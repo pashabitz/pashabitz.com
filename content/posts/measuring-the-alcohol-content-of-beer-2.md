@@ -9,7 +9,7 @@ All booze has an "Alcohol by Volume" measure specified. It's denoted as a percen
 
 But how do they measure this quantity? How do they know exactly how much alcohol is there in a bottle of beer?
 
-![](/wp-content/uploads/2015/10/beers.jpeg)
+![](/img/beers.jpeg)
 
 ### General process
 

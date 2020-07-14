@@ -7,6 +7,6 @@ tags: ['Misc', 'Tech']
 
 This isn't terribly new, but just somewhat new - Facebook doing some basic CF-based interest suggestions:  
   
-![](/wp-content/uploads/2015/10/cf-facebook.jpg)  
+![](/img/cf-facebook.jpg)  
   
 Works okay :)

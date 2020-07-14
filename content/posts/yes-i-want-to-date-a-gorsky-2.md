@@ -27,7 +27,7 @@ Nice people?? That is me!!
   
 With thoughts of beautiful Jewish girls with rich daddies, I immediately clicked on the link and landed on the "RAJE" homepage:  
   
-![](/wp-content/uploads/2015/10/dating_for_jews.jpg)  
+![](/img/dating_for_jews.jpg)  
   
 Wow! That's a lot of details just to start. Okay:  
 RAJE: Last name?  

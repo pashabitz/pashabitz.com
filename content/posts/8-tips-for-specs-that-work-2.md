@@ -29,7 +29,7 @@ Use nested sections to create structure
 Structuring your document with hierarchical sections creates structure and helps navigating your spec when reading it repeatedly. The spec will be used as a reference for a while. For the first read - the story-like narrative is best. For subsequent reads - the ability to jump to the relevant part is more useful.  
 If you're using Word - use the built-in "Styles" feature for the titles of your sections. This also creates a handy navigation and allows you to quickly create a table of contents if you want:  
   
-![](/wp-content/uploads/2015/10/word-styles.jpg)  
+![](/img/word-styles.jpg)  
 ![](file:///C:/Users/pasha/AppData/Local/Temp/moz-screenshot-2.png)![](file:///C:/Users/pasha/AppData/Local/Temp/moz-screenshot-3.png)![](file:///C:/Users/pasha/AppData/Local/Temp/moz-screenshot-4.png)![](file:///C:/Users/pasha/Pictures/word-styles.JPG)  
   
 

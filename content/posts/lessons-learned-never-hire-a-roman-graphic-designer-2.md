@@ -5,4 +5,4 @@ draft: false
 tags: ['Misc']
 ---
 
-![](/wp-content/uploads/2015/10/lessongs-learned.jpg)
+![](/img/lessongs-learned.jpg)

@@ -5,4 +5,4 @@ draft: false
 tags: ['Misc', 'Tech']
 ---
 
-![](/wp-content/uploads/2015/10/google_page_preview.png)
+![](/img/google_page_preview.png)

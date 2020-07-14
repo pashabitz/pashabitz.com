@@ -19,7 +19,7 @@ We'll be working with a sample control. Our control will be a stock ticker contr
 
 Here's an example of such a thing, taken from Yahoo! Finance:
 
-![Stock Ticker from Yahoo! Finance](/wp-content/uploads/2015/10/YAHOO_TICKER.gif)
+![Stock Ticker from Yahoo! Finance](/img/YAHOO_TICKER.gif)
 
 You can see, that it displays the current stock price, a change in percent from some base price (opening price) and an arrow indicating the change trend.
 

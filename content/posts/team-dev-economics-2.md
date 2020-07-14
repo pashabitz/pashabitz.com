@@ -45,7 +45,7 @@ I know, I took the long rout, but I'm getting there.
 
 See, Adam Smith teaches us that the [invisible hand](http://en.wikipedia.org/wiki/Invisible_Hand) guides us in all our actions, individuals and groups alike. And when everybody does what's best for them, the whole benefit. It's why Communism collapsed, America is the only super power, and Big Macs are so cheap and are everywhere.
 
-![bigmac.jpg](/wp-content/uploads/2015/10/bigmac.jpg)
+![bigmac.jpg](/img/bigmac.jpg)
 
 Now, these theories are applied to [more and more areas of life ](http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN/006073132X&amp;tag=bitzblog-20&amp;camp=1789&amp;creative=9325)lately. But I never though of it in relation to sofware development, nor have I read about such application anywhere. I should have.
 

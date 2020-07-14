@@ -15,7 +15,7 @@ Under "Application Development Features":
 a. ASP.NET  
 Under "Common Http Features" - check everything.  
   
-![](/wp-content/uploads/2015/10/windows_features2.gif)  
+![](/img/windows_features2.gif)  
   
 2 Open the web application project in VS, go to proprties, under "Web":  
  2.1 Select "Use IIS Web Server".  

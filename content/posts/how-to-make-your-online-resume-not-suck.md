@@ -5,7 +5,7 @@ draft: false
 tags: ['Misc']
 ---
 
-As a hiring manager, I'm probably looking at a hundred candidate profiles a week, at least. Here are some common mistakes you can fix and improvements you can make right now as a candidate / job seeker, to increase your chances to find a job. This is biased for software engineering roles, but many things apply to any role. [![dog-using-laptop-computer](http://pashabitz.com/wp-content/uploads/2018/11/dog-using-laptop-computer-300x256.jpg)](http://pashabitz.com/wp-content/uploads/2018/11/dog-using-laptop-computer.jpg)  
+As a hiring manager, I'm probably looking at a hundred candidate profiles a week, at least. Here are some common mistakes you can fix and improvements you can make right now as a candidate / job seeker, to increase your chances to find a job. This is biased for software engineering roles, but many things apply to any role. [![dog-using-laptop-computer](/img/dog-using-laptop-computer.jpg)](/img/dog-using-laptop-computer.jpg)  
 
 ### Profile picture
 

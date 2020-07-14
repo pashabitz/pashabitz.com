@@ -5,7 +5,7 @@ draft: false
 tags: ['Misc', 'Travel']
 ---
 
-![](/wp-content/uploads/2015/10/IMG_3962-small.jpg)
+![](/img/IMG_3962-small.jpg)
 
 The Fjordruta is a great multi-day hike in the west of Norway. It has a little bit of everything: fjords, forests, mountains. The whole trail can take about two weeks but you can do as little as a couple of days.
 

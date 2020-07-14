@@ -9,7 +9,7 @@ I'm starting to think they should have licenses for owning a keyboard. Because p
 Amazon now has a "Customer Discussions (beta)" section on the product page.  
 Here's a snapshot of something I stumbled upon just now:  
   
-![](/wp-content/uploads/2015/10/AmazonCustomerDiscussions.jpg)  
+![](/img/AmazonCustomerDiscussions.jpg)  
   
   
 Lets try to help the lost souls, shall we:  

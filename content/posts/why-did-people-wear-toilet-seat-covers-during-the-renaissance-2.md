@@ -5,7 +5,7 @@ draft: false
 tags: ['Misc']
 ---
 
-![](/wp-content/uploads/2015/10/toilet-seat-cover-comparison.jpg)
+![](/img/toilet-seat-cover-comparison.jpg)
 
 Left: Rembrandt, A Scholar, 1631, Oil on canvas.  
 Right: Me, picture by Aviel Lazar, 2009.

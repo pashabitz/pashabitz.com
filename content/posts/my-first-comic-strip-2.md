@@ -5,4 +5,4 @@ draft: false
 tags: ['Misc']
 ---
 
-![](/wp-content/uploads/2015/10/search_engine_comic1.jpg)
+![](/img/search_engine_comic1.jpg)
