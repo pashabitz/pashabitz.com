@@ -12,6 +12,8 @@ As universities are switching to [100% remote teaching in the coming semester](h
 
 Compare this with just a few hundred dollars for taking the equivalent MOOCs.
 
+If you don't have the money - you just saved yourself a decade of paying off student debt. If you do have the money - congrats! Put it in an investment account and use it as seed money for your first startup company!
+
 **Better teaching**: MOOCs are now freely available from the very best schools and world class professors, even if you didn't get into Stanford or Harvard.
 
 ## Disadvantages
