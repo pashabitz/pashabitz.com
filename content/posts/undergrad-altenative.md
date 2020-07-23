@@ -1,5 +1,5 @@
 ---
-title: "Undergrad Altenative"
+title: "Undergrad Alternative"
 date: 2020-07-22T08:57:57-07:00
 draft: false
 ---
