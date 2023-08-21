@@ -12,6 +12,8 @@ I am here to tell you: no it's not, and I have the proof that American sports fa
 
 As the newly formidable side from South Florida took on _somewhat ok_ (good for fourth in the conference standings) Nashville SC in the Leagues Cup final, Messi scored a brilliant first half goal: controlling a deflection with one touch, he used another to bypass one Nashville defender, then the third to curve the ball into a perfect placement in the top left corner of the goal, ahead of three more diving defenders. It was a classic.
 
+![](/img/lionel-messi-leagues-cup-final-457520368.jpg)
+
 I fired up the trusty YouTube TV to enjoy the masterpiece again, surely atop the ESPN SportsCenter Top 10 Plays of the Day.
 
 Alas, Leo's masterpiece came in at a disappointing third, on this (pro sports) sleepy August Saturday.
