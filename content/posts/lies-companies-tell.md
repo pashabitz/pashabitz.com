@@ -4,33 +4,34 @@ date: 2025-05-07T15:26:56-07:00
 draft: true
 ---
 
-There is a very common thing that companies in general—but especially tech companies and startups—do: they pretend or insinuate that the company is more than just a for-profit organization. Instead, they frame things as a friendship or a family. Because of that, individual employees are expected to do things they would normally only do for friends or family—things that are sometimes not strictly in the best interest of the employee. 
+There is a very common thing that companies in general—but especially tech companies and startups—do: they pretend or insinuate that the company is more than just a for-profit organization. Instead, they frame things as a friendship or a family. Because of that, individual employees are expected to do things they would normally only do for friends or family—things that are sometimes not strictly in the best interest of the employee.
 
-Let me give you some examples and also explain why I think this is misleading and disingenuous.
+Let me give you some examples and explain why I think this is misleading and disingenuous.
 
-The first example is about loyalty. It’s often expected that if an employee decides to leave, whether it is because they receive a much better offer (compensation or otherwise) they should not take it. Instead, they are expected to stay with the company out of a sense of loyalty.
+The first example is about loyalty. It’s often expected that if an employee decides to leave, whether it's because they receive a much better offer (compensation or otherwise), they should not take it. Instead, they are expected to stay out of loyalty.
 
-Another example is the supposed existence of a certain etiquette. Like that after accepting an offer from a company, a future employee is expected not to back out, even if something changes in their situation and for any reason at all they no longer want to join.
+Another example is the supposed existence of a certain etiquette. After accepting an offer, a future employee is expected not to back out—even if something changes and they no longer want to join.
 
-I have many times listened to senior, experienced team members lament how "unprofessional" it is for someone to do this. They often cite youth or inexperience and chastise the individual in question, teaching other employees how unacceptable it is, how "it’s a small Valley," and that this sort of behavior is something you just don’t do.
+I’ve listened to senior, experienced team members lament how "unprofessional" it is for someone to do this. They often cite youth or inexperience and chastise the individual, teaching others how unacceptable it is, how "it’s a small Valley," and that this sort of behavior is just not done.
 
 This is a bunch of baloney. Here's why:
 
-A company will always—and this is not speculation, it’s clearly observable—do whatever is best for the company. I have sat through countless conversations where an employee was being let go because that was right for the company at the time, no matter how terrible it is for the individual and their situation at the moment.
+A company will always  do whatever is best for the company:
 
-We've all seen and read about job offers being rescinded by companies on the job start day (!) because that’s what suits the company, regardless of any terrible implications this means to the individual in question.
+I have sat through countless conversations where an employee was being let go because that was right for the company, no matter how terrible it was for the individual.
 
-Don't get me wrong: the company has every right (and also duty) to do so and I don't think that the people responsible for these decisions are happy to be making them, and the resulting damage caused to the employees in question.
+I've read of job offers being rescinded on the employee's first day (!) because that’s what suits the company, regardless of what it means for the individual.
 
-What's striking to me is the intellectual dishonesty required for someone to preach about loyalty, etiquette and what is “proper” for an employee to do, while it’s absolutely clear that any company will do whatever suits it best, disregarding the individual in question, in the case that the two interests are not aligned.
+Don't get me wrong: the company has every right (and also duty) to do so, and I don't think the people responsible are happy to make these decisions or cause harm.
 
-This is also not to say that there aren't a ton of great company leaders (I was fortunate to work with some) that genuinely care about their employees and invest effort into doing the right things for their employees.
+What’s striking to me is the intellectual dishonesty required to preach about what is “proper” to do as an employee when it’s absolutely clear any company will do whatever suits it best, disregarding the individual, if interests don’t align.
 
-But here's the rub: this only happens as long as it doesn't contradict the benefit of the company.
+This doesn't mean there aren’t great company leaders (I was fortunate to work with some) who genuinely care about their employees and try to do right by them.
 
-So my advice to anyone starting out is:
-When interacting with an employer, do exactly and absolutely what is best for you. Sure, don't be a jerk. But if you want to leave your job - go for it. If you feel like the job offer you accepted is not right for you. Sure apologize, but do what's right for you.
+But here's the rub: this only lasts as long as it doesn’t contradict the needs of the company.
 
-Yes, it's "a small valley". Yes, all else being equal, you should do the "right thing" by all people you interact with. Of course your word is a thing you should value and protect.
+So my advice to anyone starting out is: when interacting with an employer, do exactly what is best for you. Don’t be a jerk. But if you want to leave your job—go for it. If the offer you accepted isn’t right for you—apologize, but do what’s right for you.
 
-But also don't forget that if and when things will be reversed, the company will always, 100% of the time, do what's right for itself, regardless of the implications for you.
+Yes, it's a small valley. Yes, all else being equal you should always the right thing by the people you interact with. Of course, your word is something to value and protect.
+
+But don’t forget: if the tables turn, the company will always—100% of the time—do what’s right for itself, regardless of the implications for you.
