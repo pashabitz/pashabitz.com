@@ -1,7 +1,7 @@
 baseURL = "https://www.pashabitz.com/"
 languageCode = "en-us"
 title = "Pasha Bitz"
-
+theme="archie"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
