@@ -1,7 +1,7 @@
 ---
 title: "Some Books I Read Recently"
 date: 2025-05-21T09:18:53-07:00
-draft: true
+draft: false
 ---
 Some recent books, because I never remember when asked for recommendations.
 
