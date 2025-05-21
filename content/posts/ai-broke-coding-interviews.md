@@ -18,6 +18,8 @@ In my experience, most companies will ask the candidate to turn off any coding a
 
 A minority will encourage candidates to use any tools “as you would in real life”. This sounds like the more sane alternative to me.
 
+![](/img/engineer_and_robot_arguing.png)
+
 ## What's the Interview For?
 
 Back to basics: what we want out of the technical interview is to approximate the work the engineer does in real life, but in a very time constrained manner. Sure, this is flawed, but it’s the best we can do.
