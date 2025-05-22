@@ -11,6 +11,8 @@ Now, as computer programming is being upended by AI, I wonder whether I should.
 
 My son and I are currently building a simple game together. As I watch him watch me type queries into the coding assistant window, the irony doesn't escape me.
 
+![](/img/baby_coding.png)
+
 ## Is Everything Changing Yet Again?
 
 I started thinking: **if we should no longer teach kids to program, what should we teach instead**? What skills and traits will be conducive to success for someone becoming an adult in, say, the year 2040?
@@ -51,6 +53,9 @@ Given the ability to acquire any information and perform any task, what is left 
 There are no bounds and no rules.
 
 Everything can be made, created, changed, affected. You need the drive and the belief in your ability to do so.
+
+![](/img/baby_boardroom.png)
+
 
 ## Writing and Language in General
 As I’m going over these skills and thinking through how we now use different flavors of generative models to accomplish tasks, there is a common thread running through all these uses: language.
