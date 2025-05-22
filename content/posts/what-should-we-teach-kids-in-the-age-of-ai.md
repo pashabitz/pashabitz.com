@@ -57,7 +57,7 @@ Everything can be made, created, changed, affected. You need the drive and the b
 ![](/img/baby_boardroom.png)
 
 
-## Writing and Language in General
+## Language and Writing
 As I’m going over these skills and thinking through how we now use different flavors of generative models to accomplish tasks, there is a common thread running through all these uses: language.
 
 
