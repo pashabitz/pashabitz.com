@@ -1,5 +1,5 @@
 ---
-title: "What Should We Teach Kids in the Age of Ai"
+title: "What Should We Teach Kids in the Age of AI"
 date: 2025-05-22T14:21:35-07:00
 draft: false
 ---
